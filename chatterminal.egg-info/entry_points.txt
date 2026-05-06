@@ -1,0 +1,3 @@
+[console_scripts]
+ct-client = client.main:main
+ct-server = server.main:main

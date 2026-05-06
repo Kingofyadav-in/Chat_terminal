@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: chatterminal
+Version: 1.0.0
+Summary: Self-hosted E2E encrypted terminal chat
+Requires-Python: >=3.11
+Requires-Dist: websockets==12.0
+Requires-Dist: bcrypt>=4.1
+Requires-Dist: argon2-cffi>=23.1
+Requires-Dist: cryptography>=42.0
+Requires-Dist: aiosqlite>=0.20
+Requires-Dist: click>=8.1
